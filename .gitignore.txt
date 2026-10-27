@@ -1,0 +1,14 @@
+
+# Hasil kompilasi dan build
+/build/
+/dist/
+
+# File Java hasil kompilasi
+*.class
+
+# File sementara sistem operasi
+.DS_Store
+Thumbs.db
+
+# File konfigurasi lokal/private
+.env
